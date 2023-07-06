@@ -1,0 +1,20 @@
+Package: brandom
+Title: PKG_TITLE
+Version: 0.0.0.9000
+Authors@R: 
+    person("AUTHOR_FIRST", "AUTHOR_LAST", , "AUTHOR@MAIL.COM", role = c("cre", "aut"))
+Description: PKG_DESC.
+License: What license is it under?
+Imports: 
+    config (>= 0.3.1),
+    golem (>= 0.4.0),
+    shiny (>= 1.7.4),
+    shinydashboard
+Suggests: 
+    testthat (>= 3.0.0)
+Enhances:
+    DiGGer (>= 1.0.5)
+Config/testthat/edition: 3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
